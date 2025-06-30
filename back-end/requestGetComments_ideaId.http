@@ -1,0 +1,2 @@
+GET http://localhost:3000/comments/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiamFuZXQiLCJpYXQiOjE3MTg3MzAzMzcsImV4cCI6MTcxODgxNjczN30.e5mfeDTP8PTwlV9HKaOewrB-t-E4Bsw9Fg0Ulgwdf60

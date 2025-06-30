@@ -1,0 +1,8 @@
+POST http://localhost:3000/ideas
+Content-Type: application/json 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiamFuZXQiLCJpYXQiOjE3MTg2MjAwMjIsImV4cCI6MTcxODcwNjQyMn0.y3MVAlqnt6ntyNUlqc9iG6lPdbcZtBUO84PrLkjys5Y
+
+{
+  "titolo": "idea di prova7",
+  "testo": "questo è il testo dell'idea di prova3"
+}

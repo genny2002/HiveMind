@@ -1,0 +1,2 @@
+DELETE http://localhost:3000/comments/2
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZW1tYSIsImlhdCI6MTcxODc0MjkyMiwiZXhwIjoxNzE4ODI5MzIyfQ.to0Wr3mFqDyOLRpxrG0YhGkU4GZQdLBxUP0nMe499a4

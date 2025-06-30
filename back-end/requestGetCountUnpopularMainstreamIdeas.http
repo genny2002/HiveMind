@@ -1,0 +1,2 @@
+GET http://localhost:3000/countUnpopularMainstreamIdeas
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiamFzbWluZSIsImlhdCI6MTcyMTA2OTk5MSwiZXhwIjoxNzIxMTU2MzkxfQ.qMAGoJvo3BrLHCkKaMGdqqWmeRqPvDeIYEcHvmAD3pk

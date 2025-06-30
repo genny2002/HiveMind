@@ -1,0 +1,2 @@
+DELETE http://localhost:3000/deleteDownVotes/37
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiYWxleCIsImlhdCI6MTcxODc0NjMxNSwiZXhwIjoxNzE4ODMyNzE1fQ.yYlBR4xIO_hoowcZTomVMI2cslby1shelSDaAsNK5wg

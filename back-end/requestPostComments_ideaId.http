@@ -1,0 +1,7 @@
+POST http://localhost:3000/comments/4
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoibWljaGFlbCIsImlhdCI6MTcxODczMTk1NSwiZXhwIjoxNzE4ODE4MzU1fQ.1q6jdDx65Np9XvCp4JSx9AGC2b4xO9FUSJGz9vONtmk
+
+{
+  "testo": "testo del commento di prova"
+}

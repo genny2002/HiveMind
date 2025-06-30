@@ -1,0 +1,7 @@
+POST http://localhost:3000/upVotes/45
+Content-Type: application/json 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZW1tYSIsImlhdCI6MTcxODcwNzQyNCwiZXhwIjoxNzE4NzkzODI0fQ.PAUnc9QQxNilFCZ2TuwyBQYkHyoAM99TBY0MaAKRpWo
+
+{
+    
+}

@@ -1,0 +1,7 @@
+PUT http://localhost:3000/ideas/1 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiamFzbWluZSIsImlhdCI6MTcxODczNzkwNywiZXhwIjoxNzE4ODI0MzA3fQ.oTMAyBFkD17USomtNravF5D-kd3y0wrCjkjSUH5WF94
+Content-Type: application/json
+
+{
+  "testo": "nuovo Testo modificato dell'idea modificata dall utente sbagliato"
+}

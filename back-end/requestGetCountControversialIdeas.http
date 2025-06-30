@@ -1,0 +1,2 @@
+GET http://localhost:3000/countControversialIdeas
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiamFzbWluZSIsImlhdCI6MTcyMTI5MzM4NywiZXhwIjoxNzIxMzc5Nzg3fQ.4nH5K160UvKc_c9njVGMDDMNg48uv-pbe44bBiQEMa0

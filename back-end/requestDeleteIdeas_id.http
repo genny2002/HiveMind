@@ -1,0 +1,2 @@
+DELETE http://localhost:3000/ideas/2 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiamFuZXQiLCJpYXQiOjE3MTg3Mzg2NjcsImV4cCI6MTcxODgyNTA2N30.Mok8eQtAQpjzCb53-nardXjcrX-n177f8ImjdXTAr8Q

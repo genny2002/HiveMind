@@ -1,0 +1,2 @@
+GET http://localhost:3000/ideas/8
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiamFzbWluZSIsImlhdCI6MTcyMTExNDIxMSwiZXhwIjoxNzIxMjAwNjExfQ.kmpbWiHs2rjrp7IV4cR-r171uiERAMrFZ2kJrSVfKt8

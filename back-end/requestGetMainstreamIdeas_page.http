@@ -1,0 +1,2 @@
+GET http://localhost:3000/mainstreamIdeas/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiamFzbWluZSIsImlhdCI6MTcyMTA3NzA3NywiZXhwIjoxNzIxMTYzNDc3fQ.B4atiT8EgydIPvpVGGaDvnXIw464vdCOekl0d_OF-5M

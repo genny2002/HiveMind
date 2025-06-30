@@ -1,0 +1,2 @@
+GET http://localhost:3000/findByUser
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiamFzbWluZSIsImlhdCI6MTcyMDI4MjIxOSwiZXhwIjoxNzIwMzY4NjE5fQ.nzkAoCkASdecpLQnJdQpseqxkXmH-8N0LorHpzRGj8o
